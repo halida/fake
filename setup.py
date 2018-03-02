@@ -10,7 +10,5 @@ setup(
     author_email="bamuller@gmail.com",
     license="MIT",
     url="http://github.com/bmuller/fake",
-    packages=find_packages(),
-    requires=["fabric"],
-    install_requires=['fabric>=1.12']
+    packages=find_packages()
 )
